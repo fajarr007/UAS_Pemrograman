@@ -15,6 +15,6 @@ lalu kita buka XAMPP kita nyalahkan Apache dan MySQL, seperti gambar berikut;<br
 **LANGKAH KEDUA**<br>
 Kita membikin database di"PHPMyadmin" seperti gambar berikut;<br>
 ![p](gambar/database.png)<br>
-lalu kita buka berkas Ci4 
-lalu kita buka Visual Studio Code, dan Export SQLnya keberkas Ci4 seperti gambar berikut;<br>
+lalu kita buka berkas Ci4 di Visual Studio Code, dan Export SQLnya keberkas Ci4 seperti gambar berikut;<br>
+![p](gambar/ci4.png)<br>
 ![p](gambar/antrianloket.png)<br>
