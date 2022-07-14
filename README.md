@@ -25,7 +25,7 @@ ketika kerangka website telah jadi diberkas Ci4 yang telah kita buat di Visual S
 ketika perintah berasil, setelah itu kalian salin *URLnya* dibagian teks berwarna hijau lalu buka browser dan tempel URL yang telah disalin seperti gambar berikut:<br>
 ![p](gambar/web1.png)<br>
 
-**LANGKAH TERAKHIR**
+**LANGKAH TERAKHIR**<br>
 Alhamdulillah sudah jadi, tinggal kita cek-cek menu-menu Websitenya<br>
 Jadi ini bagian *"Menu Antrian"*<br>
 ![p](gambar/web2.png)<br>
@@ -34,5 +34,5 @@ Ini bagian *"Layanan Antrian"*<br>
 Ini bagian *"Loket Panggil"*<br>
 ![p](gambar/web4.png)<br>
 Ini bagian *"Loket Pelayanan"*<br>
-![p](gambar/xampp.png)<br>
+![p](gambar/web5.png)<br>
 
