@@ -2,14 +2,14 @@
 
 ## Link
 
-- [Dokumentasi](https://youtu.be/gaguOyJWFFo)
+- [Dokumentasi]()
 
-- [Demo program](http://antriansistem.rf.gd/)
+- [Demo program]()
 
 ## Getting Started
 
 ```shell
-git clone https://github.com/fajaragngn/lab-uas.git
+git clone https://github.com/fajarr007/UAS_Pemrograman.git
 cd lab-uas
 ```
 
