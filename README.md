@@ -38,4 +38,5 @@ Ini bagian *"Loket Pelayanan"*<br>
 
 Dan kita bisa memberikan hosting pada websitenya dengan cara mendaftarkan akun kita pada *"Infinityfree"* dan juga menginstal *"Filezilla"* untuk mengexport berkas project website kita, seperti gambar berikut;<br>
 ![p](gambar/akhiran.png)<br>
+![p](gambar/akhiran2.png)<br>
 
