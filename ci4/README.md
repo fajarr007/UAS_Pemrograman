@@ -10,7 +10,7 @@
 
 ```shell
 git clone https://github.com/fajarr007/UAS_Pemrograman.git
-cd lab-uas
+cd UAS_Pemrograman
 ```
 
 open terminal
