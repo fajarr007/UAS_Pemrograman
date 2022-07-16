@@ -36,3 +36,6 @@ Ini bagian *"Loket Panggil"*<br>
 Ini bagian *"Loket Pelayanan"*<br>
 ![p](gambar/web5.png)<br>
 
+Dan kita bisa memberikan hosting pada websitenya dengan cara mendaftarkan akun kita pada *"Infinityfree"* dan juga menginstal *"Filezilla"* untuk mengexport berkas project website kita, seperti gambar berikut;<br>
+![p](gambar/akhiran.png)<br>
+
